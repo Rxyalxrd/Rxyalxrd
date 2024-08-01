@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-   I'm Max, a backend web developer.<br>
+   <h3>I'm Max, a backend web developer.</h3><br>
   ㅤ
 </div>
 
