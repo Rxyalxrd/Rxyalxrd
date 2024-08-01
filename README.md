@@ -19,6 +19,12 @@
   ㅤ
 </div>
 
+<div align="center">
+   <h1>Social links:</h1><br>
+  ㅤ<a href="https://web.telegram.org/@Rxyalxrd">Telegram</a><h3>|</h3>
+    <a href="https://steamcommunity.com/id/m3Ruchey/">Steam</a>
+</div>
+
 <!--- ![alt text](https://github.com/Rxyalxrd/Rxyalxrd/blob/main/github-header-image.png?raw=true) --->
 <!---
 Rxyalxrd/Rxyalxrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
