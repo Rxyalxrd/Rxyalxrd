@@ -12,6 +12,7 @@
   <a href="https://steamcommunity.com/id/m3Ruchey/" target="_blank">
     <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/steam-svgrepo-com.svg"/>
   </a>
+  <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/dots-vertical-svgrepo-com%20(1).svg"/>
   <a href="https://t.me/Rxyalxrd" target="_blank">
     <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg"/>
   </a>ㅤ
