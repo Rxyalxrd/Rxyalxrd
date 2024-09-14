@@ -9,10 +9,12 @@
 
 <div align="center">
     <h1> 📱 Social links:</h1>
-    <a href="https://web.telegram.org/k/#@Rxyalxrd"> 💬 Telegram</a>
-    <span>|</span>
-    <a href="https://steamcommunity.com/id/m3Ruchey/"> 🎮 Steam</a><br>
-  ㅤ  ㅤ
+  <a href="https://steamcommunity.com/id/m3Ruchey/" target="_blank">
+    <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/steam-svgrepo-com.svg"/>
+  </a>
+  <a href="https://t.me/Rxyalxrd" target="_blank">
+    <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg"/>
+  </a>ㅤ
 </div>
 
 <div align="center">
