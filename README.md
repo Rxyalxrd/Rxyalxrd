@@ -42,7 +42,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://docs.aiogram.dev/en/stable/" target="_blank">
-    <img src="https://docs.aiogram.dev/en/stable/_static/logo.png" title="aiogram" alt="aiogram" width="40" height="40"/>
+    <img src="https://docs.aiogram.dev/en/stable/_static/logo.png" title="aiogram" alt="Aiogram" width="40" height="40"/>
   </a>
   <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
@@ -60,34 +60,34 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://redis.io/?ref=kubedexcom" target="_blank">
-    <img src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg title="GitHub" alt="redis" width="40" height="40"/>
+    <img src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg title="Redis" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://docs.sqlalchemy.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy" alt="sqlalchemy" width="40" height="40"/>
   </a>
   <a href="https://www.selenium.dev/documentation/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="selenium" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
   </a>
   <a href="https://docs.scrapy.org/en/latest/" target="_blank">
     <img src="https://github.com/scrapinghub/learn.scrapinghub.com/blob/master/_includes/icons/icon-scrapy.svg" title="Scrapy" alt="scrapy" width="40" height="40"/>
   </a>
   <a href="https://nginx.org/en/docs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="nginx" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
   </a>
   <a href="https://docs.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.kernel.org/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>
   <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://docs.github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
   </a>
 </div>
   ㅤ
