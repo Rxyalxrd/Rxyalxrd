@@ -41,6 +41,9 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="fastapi" width="40" height="40"/>
   </a>
+  <a href="https://docs.aiogram.dev/en/stable/" target="_blank">
+    <img src="https://docs.aiogram.dev/en/stable/_static/logo.png" title="github" alt="aiogram" width="40" height="40"/>
+  </a>
   <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
   </a>
@@ -56,8 +59,8 @@
   <a href="https://www.postgresql.org/docs/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.sqlite.org/docs.html" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="sqlite" width="40" height="40"/>
+  <a href="https://redis.io/?ref=kubedexcom" target="_blank">
+    <img src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg title="GitHub" alt="redis" width="40" height="40"/>
   </a>
   <a href="https://docs.sqlalchemy.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy" alt="sqlalchemy" width="40" height="40"/>
@@ -84,7 +87,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/>
   </a>
   <a href="https://docs.github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>
   </a>
 </div>
   ㅤ
