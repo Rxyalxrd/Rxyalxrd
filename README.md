@@ -42,7 +42,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://docs.aiogram.dev/en/stable/" target="_blank">
-    <img src="https://docs.aiogram.dev/en/stable/_static/logo.png" title="aiogram" alt="Aiogram" width="40" height="40"/>
+    <img src="https://docs.aiogram.dev/en/stable/_static/logo.png" title="Aiogram" alt="aiogram" width="40" height="40"/>
   </a>
   <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
