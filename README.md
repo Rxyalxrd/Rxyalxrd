@@ -1,29 +1,23 @@
 <div align="center">
-  <h1>⛩️ Thank you for visiting my profile! ⛩️ <br>𝐻𝑎𝑣𝑒 𝑎 𝑔𝑟𝑒𝑎𝑡𝑒 𝑑𝑎𝑦</h1>
+  <h1>⛩️ Welcome to the workshop ⛩️</h1>
 </div>
 
 <div align="center">
-  <h3>👋 Hey, I'm a software developer</h3><br>
+  <h3>🍣 Hey, I'm a software developer</h3><br>
   <p align="left">
-    ⌨ I build software across the stack, from the interfaces people use to the APIs and data that make the magic happen behind the scenes.
-  </p>
-  <p align="left">
-    🦾 𝘼𝙡𝙬𝙖𝙮𝙨 𝙘𝙪𝙧𝙞𝙤𝙪𝙨 𝙖𝙣𝙙 𝙞𝙢𝙥𝙧𝙤𝙫𝙞𝙣𝙜 𝙢𝙮 𝙨𝙠𝙞𝙡𝙡𝙨.
-  </p>
-  <p align="left">
-    🏝️ 𝙒𝙝𝙚𝙣 𝙣𝙤𝙩 𝙘𝙤𝙙𝙞𝙣𝙜, 𝙄 𝙡𝙤𝙫𝙚 𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙫𝙞𝙙𝙚𝙤 𝙜𝙖𝙢𝙚𝙨, 𝙨𝙥𝙚𝙣𝙙𝙞𝙣𝙜 𝙩𝙞𝙢𝙚 𝙬𝙞𝙩𝙝 𝙛𝙧𝙞𝙚𝙣𝙙𝙨, 𝙬𝙖𝙩𝙘𝙝𝙞𝙣𝙜 𝙢𝙤𝙫𝙞𝙚𝙨, 𝙖𝙣𝙞𝙢𝙚, 𝙢𝙤𝙩𝙤𝙧𝙨𝙥𝙤𝙧𝙩 𝙚𝙫𝙚𝙣𝙩𝙨, 𝙖𝙣𝙙 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝙩𝙤 𝙧𝙚𝙡𝙖𝙭 𝙖𝙣𝙙 𝙧𝙚𝙘𝙝𝙖𝙧𝙜𝙚!
+    <img src="keyboard.svg" alt="Keyboard" width="20" height="20" align="absmiddle"/> I build software across the stack, from interfaces to APIs and data systems. I care about reliability, clear decisions, and the behind-the-scenes magic that looks boring when it works.
   </p>
 </div>
 
 <div align="center">
-  <h1>📱 Social links:</h1>
+  <h1>「 📜 Social links 」</h1>
   <a href="https://t.me/Rxyalxrd" target="_blank">
     <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="Telegram"/>
   </a>
 </div>
 
 <div align="center">
-  <h1>:hammer_and_wrench: Languages and Tools:</h1>
+  <h1>「 🗡️ Languages and Tools 」</h1>
   <a href="https://www.python.org/doc/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>
   </a>
