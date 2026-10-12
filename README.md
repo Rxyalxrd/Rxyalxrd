@@ -1,11 +1,11 @@
 <div align="center">
-  <h1> ⛩️ Thank you for visiting my profile! ⛩️ <br>𝐻𝑎𝑣𝑒 𝑎 𝑔𝑟𝑒𝑎𝑡𝑒 𝑑𝑎𝑦</h1>
+  <h1>⛩️ Thank you for visiting my profile! ⛩️ <br>𝐻𝑎𝑣𝑒 𝑎 𝑔𝑟𝑒𝑎𝑡𝑒 𝑑𝑎𝑦</h1>
 </div>
 
 <div align="center">
-  <h3>👋 Hey, I’m Max! A backend developer.</h3><br>
+  <h3>👋 Software developer</h3><br>
   <p align="left">
-    ⌨ 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙩𝙤 𝙘𝙧𝙚𝙖𝙩𝙚 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙢𝙖𝙜𝙞𝙘! 𝙁𝙤𝙘𝙪𝙨𝙚𝙙 𝙤𝙣 𝘼𝙋𝙄𝙨, 𝙙𝙖𝙩𝙖𝙗𝙖𝙨𝙚𝙨, 𝙖𝙣𝙙 𝙢𝙖𝙠𝙞𝙣𝙜 𝙩𝙝𝙞𝙣𝙜𝙨 𝙬𝙤𝙧𝙠 𝙗𝙚𝙝𝙞𝙣𝙙 𝙩𝙝𝙚 𝙨𝙘𝙚𝙣𝙚𝙨.
+    ⌨ I build software across the stack, from the interfaces people use to the APIs and data that make the magic happen behind the scenes.
   </p>
   <p align="left">
     🦾 𝘼𝙡𝙬𝙖𝙮𝙨 𝙘𝙪𝙧𝙞𝙤𝙪𝙨 𝙖𝙣𝙙 𝙞𝙢𝙥𝙧𝙤𝙫𝙞𝙣𝙜 𝙢𝙮 𝙨𝙠𝙞𝙡𝙡𝙨.
@@ -16,85 +16,51 @@
 </div>
 
 <div align="center">
-    <h1> 📱 Social links:</h1>
-  <a href="https://steamcommunity.com/id/m3Ruchey/" target="_blank">
-    <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/steam-svgrepo-com.svg"/>
-  </a>
-  <a>
-    <sup>
-      <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/dots-vertical-svgrepo-com%20(1).svg" />
-    </sup>
-  </a>
+  <h1>📱 Social links:</h1>
   <a href="https://t.me/Rxyalxrd" target="_blank">
-    <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg"/>
-  </a>ㅤ
+    <img src="https://github.com/Rxyalxrd/Rxyalxrd/blob/main/telegram-communication-chat-interaction-network-connection-svgrepo-com.svg" alt="Telegram"/>
+  </a>
 </div>
 
 <div align="center">
-  <h1> :hammer_and_wrench: Languages and Tools:</h1>
-</div>
-
-<div align="center">
+  <h1>:hammer_and_wrench: Languages and Tools:</h1>
   <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://docs.aiogram.dev/en/stable/" target="_blank">
-    <img src="https://docs.aiogram.dev/en/stable/_static/logo.png" title="Aiogram" alt="aiogram" width="40" height="40"/>
-  </a>
-  <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://docs.djangoproject.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" title="DRF" alt="drf" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/?ref=kubedexcom" target="_blank">
-    <img src=https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg title="Redis" alt="redis" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="32" height="32"/>
   </a>
   <a href="https://docs.sqlalchemy.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SqlAlchemy" alt="sqlalchemy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="32" height="32"/>
   </a>
-  <a href="https://www.selenium.dev/documentation/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="32" height="32"/>
   </a>
-  <a href="https://docs.scrapy.org/en/latest/" target="_blank">
-    <img src="https://github.com/scrapinghub/learn.scrapinghub.com/blob/master/_includes/icons/icon-scrapy.svg" title="Scrapy" alt="scrapy" width="40" height="40"/>
+  <a href="https://redis.io/docs/latest/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="32" height="32"/>
   </a>
-  <a href="https://nginx.org/en/docs/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>
+  <a href="https://www.rabbitmq.com/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" alt="RabbitMQ" width="32" height="32"/>
+  </a>
+  <a href="https://kafka.apache.org/documentation/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" alt="Apache Kafka" width="32" height="32"/>
   </a>
   <a href="https://docs.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="32" height="32"/>
   </a>
-  <a href="https://www.kernel.org/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="32" height="32"/>
   </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="32" height="32"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/>
+  <a href="https://nextjs.org/docs" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="32" height="32"/>
   </a>
-  <a href="https://docs.github.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="github" width="40" height="40"/>
+  <a href="https://docs.aiogram.dev/en/stable/" target="_blank">
+    <img src="https://raw.githubusercontent.com/aiogram/aiogram/dev-3.x/docs/_static/logo.png" title="aiogram" alt="aiogram" width="32" height="32"/>
+  </a>
+  <a href="https://www.selenium.dev/documentation/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="32" height="32"/>
   </a>
 </div>
-  ㅤ
-</div>
-
-<!--- ![alt text](https://github.com/Rxyalxrd/Rxyalxrd/blob/main/github-header-image.png?raw=true) --->
-<!---
-Rxyalxrd/Rxyalxrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
