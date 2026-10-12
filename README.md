@@ -5,7 +5,7 @@
 <div align="center">
   <h3>🍣 Hey, I'm a software developer</h3><br>
   <p align="left">
-    <img src="keyboard.svg" alt="Keyboard" width="20" height="20" align="absmiddle"/> I build software across the stack, from interfaces to APIs and data systems. I care about reliability, clear decisions, and the behind-the-scenes magic that looks boring when it works.
+    <img src="keyboard.svg" alt="Keyboard" width="20" height="20" align="absmiddle"/> 𝘐 𝘣𝘶𝘪𝘭𝘥 𝘴𝘰𝘧𝘵𝘸𝘢𝘳𝘦 𝘢𝘤𝘳𝘰𝘴𝘴 𝘵𝘩𝘦 𝘴𝘵𝘢𝘤𝘬, 𝘧𝘳𝘰𝘮 𝘪𝘯𝘵𝘦𝘳𝘧𝘢𝘤𝘦𝘴 𝘵𝘰 𝘈𝘗𝘐𝘴 𝘢𝘯𝘥 𝘥𝘢𝘵𝘢 𝘴𝘺𝘴𝘵𝘦𝘮𝘴. 𝘐 𝘤𝘢𝘳𝘦 𝘢𝘣𝘰𝘶𝘵 𝘳𝘦𝘭𝘪𝘢𝘣𝘪𝘭𝘪𝘵𝘺, 𝘤𝘭𝘦𝘢𝘳 𝘥𝘦𝘤𝘪𝘴𝘪𝘰𝘯𝘴, 𝘢𝘯𝘥 𝘵𝘩𝘦 𝘣𝘦𝘩𝘪𝘯𝘥-𝘵𝘩𝘦-𝘴𝘤𝘦𝘯𝘦𝘴 𝘮𝘢𝘨𝘪𝘤 𝘵𝘩𝘢𝘵 𝘭𝘰𝘰𝘬𝘴 𝘣𝘰𝘳𝘪𝘯𝘨 𝘸𝘩𝘦𝘯 𝘪𝘵 𝘸𝘰𝘳𝘬𝘴.
   </p>
 </div>
 
