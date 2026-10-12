@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>👋 Software developer</h3><br>
+  <h3>👋 Hey, I'm a software developer</h3><br>
   <p align="left">
     ⌨ I build software across the stack, from the interfaces people use to the APIs and data that make the magic happen behind the scenes.
   </p>
